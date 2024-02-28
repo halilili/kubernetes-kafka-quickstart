@@ -1,4 +1,5 @@
 Reference: https://piotrminkowski.com/2023/11/06/apache-kafka-on-kubernetes-with-strimzi/
+           https://piotrminkowski.com/2023/11/15/kafka-tracing-with-spring-boot-and-open-telemetry/
 
 # Demo Java Apps for Kubernetes [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
 
